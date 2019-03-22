@@ -23,3 +23,4 @@ case $pilihan in
 esac
 echo "Hasil : $res"
 
+
